@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nishimura/Developments/Cplusplus/Sync/03_ToStudyOthers/EC/././Gene.hpp
+string
+-
+
+/home/nishimura/Developments/Cplusplus/Sync/03_ToStudyOthers/EC/./GeneticOperator.hpp
+./individual.hpp
+/home/nishimura/Developments/Cplusplus/Sync/03_ToStudyOthers/EC/././individual.hpp
+random
+-
+
+/home/nishimura/Developments/Cplusplus/Sync/03_ToStudyOthers/EC/./individual.hpp
+cmath
+-
+iostream
+-
+vector
+-
+./Gene.hpp
+/home/nishimura/Developments/Cplusplus/Sync/03_ToStudyOthers/EC/././Gene.hpp
+./GeneticOperator.hpp
+/home/nishimura/Developments/Cplusplus/Sync/03_ToStudyOthers/EC/././GeneticOperator.hpp
+
+/home/nishimura/Developments/Cplusplus/Sync/03_ToStudyOthers/EC/GeneticOperator.cpp
+./GeneticOperator.hpp
+/home/nishimura/Developments/Cplusplus/Sync/03_ToStudyOthers/EC/./GeneticOperator.hpp
+./individual.hpp
+/home/nishimura/Developments/Cplusplus/Sync/03_ToStudyOthers/EC/./individual.hpp
+
